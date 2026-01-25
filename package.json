@@ -9,6 +9,7 @@
   "homepage": "https://github.com/Scrounger/ioBroker.linux-control",
   "license": "MIT",
   "keywords": [
+    "ioBroker",
     "linux",
     "control",
     "ssh",
